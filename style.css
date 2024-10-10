@@ -1,0 +1,15 @@
+*{
+    margin:10px;
+}
+article{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+}
+main{
+    margin: 100px;
+}
